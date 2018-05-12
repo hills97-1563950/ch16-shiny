@@ -1,0 +1,13 @@
+name: participation7
+title: participation7
+username:
+account: hills1997
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 341701
+bundleId: 1369897
+url: https://hills1997.shinyapps.io/participation7/
+when: 1526086573.02898
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|imgs/scatter.png
